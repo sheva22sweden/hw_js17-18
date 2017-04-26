@@ -1,0 +1,16 @@
+
+.footer__menu {
+	display: flex;
+	flex-direction: column;
+}
+.footer__menu li {
+	list-style: none;
+	margin-bottom: 20px;
+}
+.footer__menu a {
+	text-decoration: none;
+	color: green;
+	text-transform: uppercase;
+	background-color: yellow;
+	padding: 5px;
+}

@@ -1,0 +1,15 @@
+
+.header__menu {
+	display: flex;
+}
+.header__menu li {
+	list-style: none;
+}
+.header__menu a {
+	text-decoration: none;
+	color: red;
+	text-transform: uppercase;
+	background-color: black;
+	margin-right: 10px;
+	padding: 5px;
+}
